@@ -95,3 +95,6 @@ npm install
 ```bash
 npm test
 ```
+
+## Changelog
+- All notable changes to this project are documented in [Changelog](./CHANGELOG.md).
