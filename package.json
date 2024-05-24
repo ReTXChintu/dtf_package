@@ -1,6 +1,6 @@
 {
   "name": "dtf_package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Date Time Formatter",
   "main": "src/index.js",
   "scripts": {
